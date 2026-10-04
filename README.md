@@ -23,10 +23,14 @@ My future game.
 Right now it's somewhere between an idea and an actual project.
 
 --STATUS
-Concept       ████████░░░░░░░░
-Prototype     ░░░░░░░░░░░░░░░░
-Development   ░░░░░░░░░░░░░░░░
-Release       ░░░░░░░░░░░░░░░░
+Concept
+████████░░░░░░░░
+Prototype
+░░░░░░░░░░░░░░░░
+Development
+░░░░░░░░░░░░░░░░
+Release
+░░░░░░░░░░░░░░░░
 Status: COMING SOON™
 More details once there's something worth showing.
 

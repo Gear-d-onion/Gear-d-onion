@@ -1,91 +1,72 @@
-
---A little about me
-
+<!-- ╔══════════════════════════════════════════════╗ ║ GEAR-D-ONION README ║ ╚══════════════════════════════════════════════╝ TODO: - Replace GIF_URL_HERE with your GIF - Replace YOUR_DISCORD with your Discord - Replace the GitHub stats URLs when ready --> <p align="center"> <img src="GIF_URL_HERE" width="700" alt="Gear-d-onion"> </p> <h1 align="center">⚙️ Gear-d-onion</h1> <p align="center"> <b>Hobby Developer · Godot Developer · Aspiring Game Designer</b> </p> <p align="center"> <i>Learning things, building things, and figuring out what works along the way.</i> </p>
+🧠 A little about me
 
 Hey! I'm Gear-d-onion.
 
 I'm a hobby developer interested in game development, game design and storytelling.
-
 I'm currently learning Godot and experimenting with different ideas, while trying to turn some of them into actual games.
 
 I like understanding how things work, especially when I can eventually use that knowledge to build something myself.
 
 I'm still figuring things out — but that's part of the fun.
 
+🎮 Currently
 
+🎮 Learning Godot & GDScript
 
---Currently
+🧠 Improving my game design skills
 
+✍️ Exploring storytelling
 
-Learning Godot & GDScript
+🛠️ Building and experimenting with small projects
 
-Improving my game design skills
+🎹 Playing and learning keyboard
 
-Exploring storytelling
+🧊 Getting increasingly interested in 3D / CAD
 
-Building and experimenting with small projects
-
-Getting increasingly interested in 3D / CAD
-
-
-
---What I'm into
-
+🎯 What I'm into
 
 Game Development · Game Design · Storytelling · Music · 3D · Programming
 
 And probably a few other things I'll get distracted by eventually.
 
-
-
---Current Quest
-
-
+🕹️ Current Quest
 Untitled Game
 
 My future game.
 
 Right now it's somewhere between an idea and an actual project.
 
+STATUS
 
---STATUS
+Concept       ████████░░░░░░░░
+Prototype     ░░░░░░░░░░░░░░░░
+Development   ░░░░░░░░░░░░░░░░
+Release       ░░░░░░░░░░░░░░░░
 
-
-Concept     ████████░░░░░░░░
-
-Prototype   ░░░░░░░░░░░░░░░░
-
-Development ░░░░░░░░░░░░░░░░
-
-Release     ░░░░░░░░░░░░░░░░
 
 Status: COMING SOON™
 
 More details once there's something worth showing.
 
-
---Toolbox
-
-
--Game Development
+🛠️ Toolbox
+🎮 Game Development
 
 Godot · GDScript
 
--Programming
+💻 Programming
 
 Python · Java
 
--Web
+🌐 Web
 
 HTML · CSS
 
--Other
+🔧 Other
 
 Batch · Scratch
 
-
---Goals
-
+🎯 Goals
 
 Make games I'm actually proud of.
 
@@ -99,9 +80,7 @@ Learn by actually building things
 
 Eventually become a game designer
 
-
 ## 📊 GitHub Stats
-
 
 <p align="center">
   <img
@@ -126,10 +105,6 @@ Eventually become a game designer
   </a>
 </p>
 
-
---Find me
-
-
-<p align="center"> Discord → <code>https://discord.gg/5uZyVcugTY</code> </p>
-
+📫 Find me
+<p align="center"> Discord → <code>YOUR_DISCORD</code> </p>
 <p align="center"> <sub>🧅 You found the onion.</sub> </p> <!-- Somewhere around here is probably a One Piece reference. If you found it, you found it. -->
